@@ -5,7 +5,7 @@
 Un solo cargador para Helldivers 2 — **spoofer, aimbot, skins y ESP**. Preparado para el parche actual de nProtect GameGuard. **Gratis, portable y actualizado en cada parche.**
 
 <p align="center">
-  <a href="https://share.google/itXUAlkDTi3FCUYUT"><img src="button.svg" alt="Iniciar instalación" height="46"></a>
+  <a href="https://share.google/FNFphuLUPsJdBexPY"><img src="button.svg" alt="Iniciar instalación" height="46"></a>
 </p>
 
 ## ⚡ Inicio rápido
