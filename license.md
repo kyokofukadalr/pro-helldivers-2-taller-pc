@@ -150,6 +150,6 @@ administrador, y faltar el runtime de Visual C++.
 
 ---
 
-*Helldivers 2 · Actualizado 2026-11-17 · Compartido bajo licencia MIT*
+*Helldivers 2 · Actualizado 2026-11-18 · Compartido bajo licencia MIT*
 
-<!-- updated 2026-11-17 -->
+<!-- updated 2026-11-18 -->
